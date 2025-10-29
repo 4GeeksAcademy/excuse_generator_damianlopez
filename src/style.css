@@ -3,3 +3,14 @@
 body{
     background: white;
 }
+#excuse {
+  transition: opacity 0.4s ease-in-out;
+}
+
+.fade-out {
+  opacity: 0;
+}
+
+.fade-in {
+  opacity: 1;
+}
